@@ -1,0 +1,7 @@
+After every module:
+git add .
+git commit -m "completed module _whatever_"
+git push -u origin main
+
+
+Through "Headers CORS" module 012021 am

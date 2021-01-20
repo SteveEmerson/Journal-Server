@@ -11,6 +11,7 @@ let calc = require('./controllers/calculatorcontroller');
 sequelize.sync();
 //sequelize.sync({force: true});
 
+app.use(require('./middleware/headers'));
 app.use(express.json());
 
 /*********************************
