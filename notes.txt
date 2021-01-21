@@ -4,4 +4,4 @@ git commit -m "completed module _whatever_"
 git push -u origin main
 
 
-Through "GET Journal Display by Title" module 012121 am
+Through all client modules 012121 am
