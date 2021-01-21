@@ -4,4 +4,4 @@ git commit -m "completed module _whatever_"
 git push -u origin main
 
 
-Through "Headers CORS" module 012021 am
+Through "GET Journal - Display Mine" module 012121 am
